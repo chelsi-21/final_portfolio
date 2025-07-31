@@ -3,12 +3,25 @@ import {
   Github, 
   Linkedin, 
   Mail, 
+<<<<<<< HEAD
+=======
+  Phone, 
+  MapPin, 
+>>>>>>> 832fdaf (Initial commit or updated files)
   Code, 
   Database, 
   Globe, 
   Award, 
+<<<<<<< HEAD
   ChevronRight,
   User,
+=======
+  Calendar,
+  ChevronRight,
+  ExternalLink,
+  User,
+  BookOpen,
+>>>>>>> 832fdaf (Initial commit or updated files)
   Briefcase
 } from 'lucide-react';
 
