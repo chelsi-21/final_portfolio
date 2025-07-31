@@ -3,25 +3,17 @@ import {
   Github, 
   Linkedin, 
   Mail, 
-<<<<<<< HEAD
-=======
   Phone, 
   MapPin, 
->>>>>>> 832fdaf (Initial commit or updated files)
   Code, 
   Database, 
   Globe, 
   Award, 
-<<<<<<< HEAD
-  ChevronRight,
-  User,
-=======
   Calendar,
   ChevronRight,
   ExternalLink,
   User,
   BookOpen,
->>>>>>> 832fdaf (Initial commit or updated files)
   Briefcase
 } from 'lucide-react';
 
@@ -372,7 +364,7 @@ function App(): JSX.Element {
             </a>
             
             <a 
-              href="mailto:chelsi.jain@example.com" 
+              href="mailto:chelsi.jain@gmail.com" 
               className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/15 transition-all duration-300 group focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2 focus:ring-offset-slate-900"
               aria-label="Send an email to Chelsi"
             >
